@@ -1,0 +1,6 @@
+framework module Pods_Swift_Slide_Menu {
+  umbrella header "Pods-Swift-Slide-Menu-umbrella.h"
+
+  export *
+  module * { export * }
+}
